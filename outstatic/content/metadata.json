@@ -1,6 +1,6 @@
 {
-  "commit": "4923280222d57e2503e5a038b3d09227c5c84eca",
-  "generated": "2024-02-28T04:25:37.007Z",
+  "commit": "b33d4f0656a3cf1f3cd6f7c519f63aa43efd96ac",
+  "generated": "2024-02-28T04:27:06.439Z",
   "metadata": [
     {
       "__outstatic": {
@@ -154,6 +154,26 @@
       "slug": "another-page",
       "status": "published",
       "title": "Another Page"
+    },
+    {
+      "__outstatic": {
+        "commit": "b33d4f0656a3cf1f3cd6f7c519f63aa43efd96ac",
+        "hash": "614941604",
+        "path": "outstatic/content/posts/new-blog-post.md"
+      },
+      "author": {
+        "name": "Renan Sigolo",
+        "picture": "https://avatars.githubusercontent.com/u/125942097?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-28T05:32:52.879Z",
+      "slug": "new-blog-post",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "New Blog Post"
     }
   ]
 }
