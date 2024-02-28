@@ -1,6 +1,6 @@
 {
-  "commit": "51d52a8d9170ca17c5df3802a05feabb16717d2c",
-  "generated": "2024-02-28T04:27:11.036Z",
+  "commit": "f0b7b525c7e04933f1ad31ef687c74fdb6258848",
+  "generated": "2024-02-28T04:33:50.727Z",
   "metadata": [
     {
       "__outstatic": {
@@ -174,6 +174,26 @@
       "tags": [
       ],
       "title": "New Blog Post"
+    },
+    {
+      "__outstatic": {
+        "commit": "f0b7b525c7e04933f1ad31ef687c74fdb6258848",
+        "hash": "2681653706",
+        "path": "outstatic/content/posts/here-we-go-again.md"
+      },
+      "author": {
+        "name": "Renan Sigolo",
+        "picture": "https://avatars.githubusercontent.com/u/125942097?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-28T05:39:18.601Z",
+      "slug": "here-we-go-again",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Here we go again"
     }
   ]
 }
