@@ -6,8 +6,8 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/125942097?v=4'
 slug: 'a-whole-new-world'
 description: ''
-coverImage: ''
-tags: ''
+coverImage: '/images/10-AwMD.png'
+tags: [{"value":"gitHub","label":"GitHub"}]
 publishedAt: '2024-02-28T06:23:20.717Z'
 ---
 
@@ -17,6 +17,8 @@ publishedAt: '2024-02-28T06:23:20.717Z'
 
 - Aliquam [tincidunt](https://sexpo.com.au) mauris eu risus.
 - Vestibulum auctor dapibus neque.
+
+![](/images/men-of-dreams9-IyNz.jpg)
 
 ## Nunc dignissim risus id metus.
 
