@@ -1,6 +1,6 @@
 ---
 title: 'Another Page'
-status: 'draft'
+status: 'published'
 author:
   name: 'Renan Sigolo'
   picture: 'https://avatars.githubusercontent.com/u/125942097?v=4'
