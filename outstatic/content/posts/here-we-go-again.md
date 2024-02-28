@@ -7,10 +7,8 @@ author:
 slug: 'here-we-go-again'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"value":"nextJs","label":"NextJs"}]
 publishedAt: '2024-02-28T05:39:18.601Z'
 ---
 
 > A small step for the man...
-
-![](/images/3u3a9080-enhanced-nr-I2Mj.jpg)

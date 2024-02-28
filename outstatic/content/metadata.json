@@ -1,6 +1,6 @@
 {
-  "commit": "f0b7b525c7e04933f1ad31ef687c74fdb6258848",
-  "generated": "2024-02-28T04:33:50.727Z",
+  "commit": "9d402150e1195f77dd2162f8dc9be942b7d02ed2",
+  "generated": "2024-02-28T04:52:48.294Z",
   "metadata": [
     {
       "__outstatic": {
@@ -177,8 +177,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f0b7b525c7e04933f1ad31ef687c74fdb6258848",
-        "hash": "2681653706",
+        "commit": "9d402150e1195f77dd2162f8dc9be942b7d02ed2",
+        "hash": "486210199",
         "path": "outstatic/content/posts/here-we-go-again.md"
       },
       "author": {
@@ -192,6 +192,10 @@
       "slug": "here-we-go-again",
       "status": "published",
       "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        }
       ],
       "title": "Here we go again"
     }
