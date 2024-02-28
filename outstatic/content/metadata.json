@@ -1,6 +1,6 @@
 {
-  "commit": "f8e53670ccc847937d1521667f72c9f47895da65",
-  "generated": "Wed, 28 Feb 2024 04:56:52 GMT",
+  "commit": "aaff3cca9a93f3a0b4c92dfc17d8d2a69da8212a",
+  "generated": "2024-02-28T05:18:25.021Z",
   "metadata": [
     {
       "__outstatic": {
@@ -198,6 +198,26 @@
       "slug": "nothing-wrong",
       "status": "published",
       "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "aaff3cca9a93f3a0b4c92dfc17d8d2a69da8212a",
+        "hash": "223723331",
+        "path": "outstatic/content/posts/a-whole-new-world.md"
+      },
+      "author": {
+        "name": "Renan Sigolo",
+        "picture": "https://avatars.githubusercontent.com/u/125942097?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-28T06:23:20.717Z",
+      "slug": "a-whole-new-world",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "A Whole New World!"
     }
   ]
 }
