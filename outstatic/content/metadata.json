@@ -1,6 +1,6 @@
 {
-  "commit": "b33d4f0656a3cf1f3cd6f7c519f63aa43efd96ac",
-  "generated": "2024-02-28T04:27:06.439Z",
+  "commit": "51d52a8d9170ca17c5df3802a05feabb16717d2c",
+  "generated": "2024-02-28T04:27:11.036Z",
   "metadata": [
     {
       "__outstatic": {
@@ -157,8 +157,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b33d4f0656a3cf1f3cd6f7c519f63aa43efd96ac",
-        "hash": "614941604",
+        "commit": "51d52a8d9170ca17c5df3802a05feabb16717d2c",
+        "hash": "2880990549",
         "path": "outstatic/content/posts/new-blog-post.md"
       },
       "author": {
@@ -170,7 +170,7 @@
       "description": "",
       "publishedAt": "2024-02-28T05:32:52.879Z",
       "slug": "new-blog-post",
-      "status": "draft",
+      "status": "published",
       "tags": [
       ],
       "title": "New Blog Post"
